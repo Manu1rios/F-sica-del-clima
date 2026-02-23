@@ -1,0 +1,4 @@
+variable,dataset_id,rows,file
+temperature,sbwg-7ju4,3367,C:\Users\manu1\Downloads\Física del Clima\data\raw\temperature\ideam_temperature_amazonas_leticia_2015-01-01_2025-12-31_daily.csv
+precipitation,s54a-sgyg,2594,C:\Users\manu1\Downloads\Física del Clima\data\raw\precipitation\ideam_precipitation_amazonas_leticia_2015-01-01_2025-12-31_daily.csv
+humidity,uext-mhny,3319,C:\Users\manu1\Downloads\Física del Clima\data\raw\humidity\ideam_humidity_amazonas_leticia_2015-01-01_2025-12-31_daily.csv
